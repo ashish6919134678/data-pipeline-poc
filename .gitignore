@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDEs/editors
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
